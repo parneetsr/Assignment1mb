@@ -1,11 +1,5 @@
-import {
-  Alert,
-  ScrollView,
-  StatusBar,
-  StyleSheet,
-  Text,
-  View,
-} from "react-native";
+//Owner Parneet Kaur
+import {Alert,ScrollView,StatusBar,StyleSheet,Text,View,} from "react-native";
 import AccountsOverview from "../../components/AccountsOverview";
 import QuickActionCards from "../../components/QuickActionCards";
 import RbcBottomNav from "../../components/RbcBottomNav";
