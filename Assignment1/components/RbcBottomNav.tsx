@@ -19,7 +19,7 @@ export default function RbcBottomNav({ onAlertPress }: RbcBottomNavProps) {
         onPress={onAlertPress}
         activeOpacity={0.85}
       >
-        <Text style={styles.yellowButtonText}>^</Text>
+        <Text style={styles.yellowButtonText}>Alert</Text>
       </TouchableOpacity>
 
       {/* The Main Horizontal Tab Item Layout */}
